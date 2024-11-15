@@ -1,0 +1,38 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: center;
+    margin: 0 auto;
+    width: 370px;
+    border-radius: 20px;
+}
+
+form {
+    text-align: center;
+    padding: 2em;
+    margin: 0 auto;
+    border: 5px solid rgba(3, 3, 184, 0.808);
+    border-radius: 20px;
+    width: 300px;
+}
+
+.checkbox {
+    padding: 1em;
+    margin: .5em;
+}
+
+.submit {
+    color: white;
+    margin: 1em;
+    background-color: black;
+}
+
+.header{
+    color: rgba(3, 3, 184, 0.808);
+}
+
+.bar{
+    margin-top: 1.25em;
+}
